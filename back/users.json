@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "email": "angarcaz93@gmail.com",
+      "password": "$2a$10$p8VJAiCMW8dub1zaXlSfKu8ME8HxPDLUiDGLKD7UsYCcTFQIC.MFy",
+      "username": "leave.the.kids.aloud",
+      "firstname": "Ángela",
+      "lastname": "García Cazorla",
+      "birth": "",
+      "acceptPrivacyPolicy": true,
+      "currentcity": "Barcelona",
+      "birthyear": 1993,
+      "id": 1
+    },
+    {
+      "email": "myemail@gmail.com",
+      "password": "$2a$10$kbJ.cmJi/sJw3zTjKa/TP.anDgca6PXnIQqEbEnZM57krwtKwMDay",
+      "username": "second",
+      "firstname": "Ana",
+      "lastname": "Maria",
+      "birthyear": 1990,
+      "currentcity": "Barcelona",
+      "acceptPrivacyPolicy": true,
+      "id": 2
+    },
+    {
+      "email": "bububu@gmail.com",
+      "password": "$2a$10$svGUvQpsQPhTI5S6vwzJuuYFnyMkT3xbknRExPdl3Z2kA/4gBXlla",
+      "username": "leave.the.kids.aloud",
+      "firstname": "Ángela",
+      "lastname": "García Cazorla",
+      "birthyear": 1993,
+      "currentcity": "Barcelona",
+      "confirmPassword": "12345",
+      "acceptPrivacyPolicy": true,
+      "id": 3
+    },
+    {
+      "email": "hola@gmail.com",
+      "password": "$2a$10$eQ6jRUyIDeKTf4lef9/RaugV2dPd.Aw2c7o01Fy5JRZhIgbPuKfvK",
+      "username": "kminchelle",
+      "firstname": "Holita",
+      "lastname": "Vecinita",
+      "birthyear": 1990,
+      "currentcity": "London",
+      "confirmPassword": "12345",
+      "acceptPrivacyPolicy": true,
+      "id": 4
+    }
+  ]
+}
